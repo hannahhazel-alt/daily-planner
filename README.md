@@ -1,6 +1,7 @@
 # daily-planner
 
 An app where you can keep track of your day and save an changes.
+https://hannahhazel-alt.github.io/daily-planner/
 
 ## Description
 
